@@ -1,46 +1,90 @@
-<h1 align="center">👨‍💻 Victor Andrade</h1>
-
-<h3 align="center">🎓 Estudante de Sistemas de Informação (FIAP)</h3>
+<h1 align="center">
+  👨‍💻 Victor Andrade
+</h1>
 
 <p align="center">
-  Sou um desenvolvedor apaixonado por tecnologia, unindo conhecimentos de <b>Infraestrutura, Redes e Hardware</b> com o desenvolvimento de software moderno.
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+Backend;Apaixonado+por+Tecnologia;Infraestrutura+e+Software" />
 </p>
 
-<br/>
+---
 
-<div align="center">
-  <h3>🛠️ Tech Stack</h3>
+## 🎓 Sobre mim
+
+💻 Estudante de **Sistemas de Informação (FIAP)**  
+🚀 Desenvolvedor apaixonado por tecnologia  
+🧠 Foco em:
+
+- Backend
+- Infraestrutura
+- Redes
+- Hardware
+
+---
+
+## 🚀 Tech Stack
+
+### 💻 Linguagens e Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,html,css" />
+</p>
+
+### ⚙️ Infraestrutura e Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github" />
+</p>
+
+---
+
+## 📊 Estatísticas
+
+<p align="center">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
   
-  <b>Linguagens & Banco de Dados:</b><br/>
-  <img align="center" alt="Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Kotlin" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
-  <img align="center" alt="MySQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
-  <img align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <br/><br/>
-  
-  <b>Infraestrutura & Redes:</b><br/>
-  <img align="center" alt="Windows" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
-  <img align="center" alt="Linux" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
-  <img align="center" alt="Git" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
-</div>
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+</p>
 
-<br/>
+---
 
-<h3 align="center">📊 Estatísticas</h3>
-<div align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=vitinhosousa&show_icons=true&theme=dracula&include_all_commits=true" alt="Victor Stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhosousa&layout=compact&theme=dracula" alt="Top Languages" />
-</div>
+## 🔥 Streak
 
-<br/>
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+</p>
 
-<h3 align="center">📫 Contato</h3>
-<div align="center">
-  <a href="https://www.linkedin.com/in/seu-linkedin-aqui" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+---
+
+## 📂 Projetos em destaque
+
+🚧 Em construção...
+
+Exemplo:
+
+- 🤖 Robô Guido
+- 🌐 Sistema Web
+- ⚙️ API Backend
+
+---
+
+## 🌎 Contato
+
+<p align="center">
+  <a href="www.linkedin.com/in/victor-andrade-baptista-de-sousa">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
   </a>
-  &nbsp;
-  <a href="mailto:victorandradebs@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" alt="Email Badge" />
+
+  <a href="victorandradebs@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
-</div>
+
+  <a href="https://github.com/vitinhosousa">
+    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+  </a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue"/>
+</p>
