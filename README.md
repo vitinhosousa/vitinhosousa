@@ -51,7 +51,7 @@
 ## 🔥 Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=SEU_USERNAME&theme=tokyonight&hide_border=true"/>
+  <img src="https://streak-stats.demolab.com?user=vitinhosousa&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
@@ -87,5 +87,5 @@ Exemplo:
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SEU_USERNAME&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=vitinhosousa&color=blue"/>
 </p>
