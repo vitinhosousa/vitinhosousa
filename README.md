@@ -51,8 +51,9 @@
 ## 🛠️ Ferramentas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=vscode,idea,androidstudio,gradle,firebase&theme=dark" />
 </p>
+
 
 
 # 🤖 Projeto em Destaque — Robô Guido
