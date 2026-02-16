@@ -73,13 +73,13 @@ Criar um robô capaz de auxiliar em tarefas domésticas e automação residencia
 
 ### Status
 
-🚧 Em desenvolvimento
+🏆 Eleito o melhor robô da competição RoboCup 2024 
 
 ---
 
 # 🏢 Projeto Corporativo — Vivo
 
-Projeto desenvolvido com foco em ambiente corporativo.
+Projeto desenvolvido com foco nas novas cntratações da Vivo.
 
 ### Atuação
 
@@ -91,7 +91,7 @@ Projeto desenvolvido com foco em ambiente corporativo.
 
 ### Objetivo
 
-Criar soluções escaláveis e organizadas seguindo padrões profissionais.
+Criar um portal de estudos e "dicas" aos novos funcionários da Vivo.
 
 ---
 
