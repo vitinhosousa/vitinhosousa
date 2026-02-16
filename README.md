@@ -1,6 +1,6 @@
 <h1 align="center">👨‍💻 Victor Andrade</h1>
 
-<h3 align="center">🎓 Estudante de Análise e Desenvolvimento de Sistemas (FIAP)</h3>
+<h3 align="center">🎓 Estudante de Sistemas de Informação (FIAP)</h3>
 
 <p align="center">
   Sou um desenvolvedor apaixonado por tecnologia, unindo conhecimentos de <b>Infraestrutura, Redes e Hardware</b> com o desenvolvimento de software moderno.
