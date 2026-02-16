@@ -44,8 +44,9 @@
   
   <br><br>
   
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="48"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48"/>
 </p>
+
 
 ---
 
