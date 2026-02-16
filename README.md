@@ -25,5 +25,5 @@ Sou um desenvolvedor apaixonado por criar soluções e aprender novas tecnologia
 ---
 
 ### 📫 Contato
-* [LinkedIn](https://www.linkedin.com/in/seu-linkedin-aqui)
-* Email: seu-email@exemplo.com
+* [LinkedIn](www.linkedin.com/in/victor-andrade-baptista-de-sousa)
+* Email: victorandradebs@icloud.com
