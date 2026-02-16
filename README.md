@@ -21,11 +21,41 @@
 
 # 🧠 Tech Stack
 
+## 💻 Linguagens
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,html,css,linux,git,github,windows,vscode&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=java,kotlin,python,html,css&theme=dark" />
 </p>
 
 ---
+
+## 🗄️ Banco de Dados
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=mysql,postgresql&theme=dark" />
+</p>
+
+---
+
+## 🌐 Infraestrutura, Cloud e Redes
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,aws&theme=dark" />
+  
+  <br><br>
+  
+  <!-- Cisco Icon -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="48"/>
+</p>
+
+---
+
+## 🛠️ Ferramentas
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vscode,idea&theme=dark" />
+</p>
+
 
 # 🤖 Projeto em Destaque — Robô Guido
 
