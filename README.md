@@ -44,7 +44,6 @@
   
   <br><br>
   
-  <!-- Cisco Icon -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cisco/cisco-original.svg" height="48"/>
 </p>
 
