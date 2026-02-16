@@ -16,8 +16,9 @@
 
 - Backend
 - Infraestrutura
-- Redes
+- Redes (IPV4 , VLAN's)
 - Hardware
+- Windows Server
 
 ---
 
