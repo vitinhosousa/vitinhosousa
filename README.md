@@ -41,11 +41,9 @@
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=linux,windows,git,github,docker,aws&theme=dark" />
-  
-  <br><br>
-  
-  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="48"/>
+  <img src="https://cdn.simpleicons.org/cisco/1BA0D7" height="40" style="vertical-align:middle;"/>
 </p>
+
 
 
 ---
