@@ -87,11 +87,11 @@ Criar soluções escaláveis e organizadas seguindo padrões profissionais.
 # 🌐 Contato
 
 <p align="center">
-  <a href="www.linkedin.com/in/victor-andrade-baptista-de-sousa">
+  <a href="https://www.linkedin.com/in/victor-andrade-baptista-de-sousa">
     <img src="https://img.shields.io/badge/LinkedIn-Victor%20Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
-  <a href="victorandradebs@icloud.com">
+  <a href="mailto:victorandradebs@icloud.com">
     <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
@@ -100,7 +100,6 @@ Criar soluções escaláveis e organizadas seguindo padrões profissionais.
   </a>
 </p>
 
----
 
 # 👁️ Visualizações
 
