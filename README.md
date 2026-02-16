@@ -3,52 +3,80 @@
 </h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00C2FF&size=24&center=true&vCenter=true&width=600&lines=Estudante+de+Sistemas+de+Informação;Desenvolvedor+Backend;Apaixonado+por+Tecnologia;Infraestrutura+e+Software" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Fira+Code&size=26&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=800&lines=Estudante+de+Sistemas+de+Informação+(FIAP);Backend+Developer;Especialista+em+Infraestrutura;Criador+do+Robô+Guido;Futuro+Engenheiro+de+Software" />
 </p>
 
 ---
 
-## 🎓 Sobre mim
+# 🚀 Sobre mim
 
-💻 Estudante de **Sistemas de Informação (FIAP)**  
-🚀 Desenvolvedor apaixonado por tecnologia  
-🧠 Foco em:
+🎓 Estudante de **Sistemas de Informação — FIAP**  
+💻 Desenvolvedor focado em **Backend e Infraestrutura**  
+🧠 Conhecimento em redes, hardware e sistemas  
+🤖 Criador do **Robô Guido**  
+🏢 Experiência com projeto corporativo da **Vivo**  
+🚀 Sempre evoluindo e construindo novos projetos  
 
-- Backend
+---
+
+# 🧠 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,html,css,linux,git,github,windows,vscode&theme=dark" />
+</p>
+
+---
+
+# 🤖 Projeto em Destaque — Robô Guido
+
+Robô doméstico inteligente desenvolvido pela startup **PIT-STOP**
+
+### Objetivo
+Criar um robô capaz de auxiliar em tarefas domésticas e automação residencial.
+
+### Tecnologias utilizadas
+
+- Java / Kotlin
+- Integração com hardware
+- Sistemas automatizados
+- Arquitetura de software
+- Infraestrutura e controle
+
+### Status
+
+🚧 Em desenvolvimento
+
+---
+
+# 🏢 Projeto Corporativo — Vivo
+
+Projeto desenvolvido com foco em ambiente corporativo.
+
+### Atuação
+
+- Desenvolvimento Backend
 - Infraestrutura
-- Redes (IPV4 , VLAN's)
-- Hardware
-- Windows Server
+- Organização de sistemas
+- Versionamento com Git
+- Estruturação de aplicações
+
+### Objetivo
+
+Criar soluções escaláveis e organizadas seguindo padrões profissionais.
 
 ---
 
-## 🚀 Tech Stack
-
-### 💻 Linguagens e Banco de Dados
+# 📊 Estatísticas
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,kotlin,mysql,html,css" />
-</p>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitinhosousa&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
 
-### ⚙️ Infraestrutura e Ferramentas
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=linux,windows,git,github" />
-</p>
-
----
-
-## 📊 Estatísticas
-
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=tokyonight&hide_border=true"/>
-  
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitinhosousa&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
 ---
 
-## 🔥 Streak
+# 🔥 Streak
 
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=vitinhosousa&theme=tokyonight&hide_border=true"/>
@@ -56,36 +84,34 @@
 
 ---
 
-## 📂 Projetos em destaque
-
-🚧 Em construção...
-
-Exemplo:
-
-- 🤖 Robô Guido
-- 🌐 Sistema Web
-- ⚙️ API Backend
-
----
-
-## 🌎 Contato
+# 🌐 Contato
 
 <p align="center">
   <a href="www.linkedin.com/in/victor-andrade-baptista-de-sousa">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-Victor%20Andrade-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 
   <a href="victorandradebs@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Email-Contato-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 
   <a href="https://github.com/vitinhosousa">
-    <img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github"/>
+    <img src="https://img.shields.io/badge/GitHub-Perfil-000?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
 </p>
 
 ---
 
+# 👁️ Visualizações
+
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=vitinhosousa&color=blue"/>
+  <img src="https://komarev.com/ghpvc/?username=vitinhosousa&color=00f7ff&style=for-the-badge"/>
+</p>
+
+---
+
+# ⚡ Frase
+
+<p align="center">
+  "A tecnologia move o mundo. Eu construo o futuro com código."
 </p>
