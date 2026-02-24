@@ -11,7 +11,7 @@
 # 🚀 Sobre mim
 
 🎓 Estudante de **Sistemas de Informação — FIAP**  
-💻 Desenvolvedor focado em **Backend e Infraestrutura**  
+💻 Desenvolvedor focado em **Front, Backend e Infraestrutura**  
 🧠 Conhecimento em redes, hardware e sistemas  
 🤖 Criador do **Robô Guido**  
 🏢 Experiência com projeto corporativo da **Vivo**  
